@@ -6,6 +6,6 @@ Simulador web para practicar costos, ingresos, margen de contribución, inventar
 Grupo 41: Daniel Castro Vera, Juan Andrés Mendoza, Santiago Sierra y Juan Andrés Molano.
 Docente: Edilson Sánchez Buitrago.
 
-**Jugar en línea:** https://santiasimba09-stack.github.io/simulator-math-thinking-uni-icesi/
+**Jugar en línea:** https://santiasimba09-stack.github.io/Simulator-math-thinking-uni-icesi/
 
 Funciona en el navegador, sin instalación. Los datos iniciales son supuestos didácticos.
